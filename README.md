@@ -1,5 +1,39 @@
-# mastering-git-web
+# Capstone Design1
 
-This repository houses a proposed website for the Mastering Git book.
+방글라데시 프로젝트 2
 
-Contact: mwkoo@sogang.ac.kr
+# AI 화학공식 튜터
+
+**Key Performance Index**
+
+1. UI/UX
+
+아이들이 사용하는 만큼 쉽게 이해할 수 있도록 설계한다.
+
+2. OCR 엔진
+
+OCR 엔진이 **제공되는 것인지 직접 제작**하는 것인지 확인하여야 한다. (아직 미팅 전)
+
+3. 3D display simulation
+
+# Content
+
+* 스마트폰으로 노트를 촬영한다.
+
+* OCR 엔진을 통해 화학공식, 결합식 정답 확인
+
+* 정답의 원소, 분자, 물질을 3D 형태로 나타내어 출력
+
+* 3D 모델링을 통해 시뮬레이션
+
+# 조원
+
+ 이름  | 역할
+-------|-----
+고서경 | 
+-------|-----
+김연요 | 
+-------|-----
+최규식 | 
+-------|------
+황두연 |
